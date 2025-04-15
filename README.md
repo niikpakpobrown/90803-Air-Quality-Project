@@ -29,27 +29,27 @@ The project uses hourly air quality data collected from monitoring stations acro
 
 	2.	Install the required dependencies:
 
-pip install -r requirements.txt
+		pip install -r requirements.txt
 
 
 	3.	Run the notebook to start exploring the data:
 
-jupyter notebook
+		jupyter notebook
+	
 
 
-
-Structure
+## Structure
 	•	data/: Contains the raw air quality data files.
 	•	notebooks/: Jupyter notebooks for data analysis and model development.
 	•	src/: Python scripts for data preprocessing, modeling, and analysis.
 	•	requirements.txt: List of Python dependencies for the project.
 
-Contributing
+## Contributing
 
-Feel free to fork the repository and open a pull request. If you have any suggestions, issues, or ideas for improvement, please open an issue.
+	Feel free to fork the repository and open a pull request. If you have any suggestions, issues, or ideas for improvement, please open an issue.
 
-License
+## License
+	
+	This project is licensed under the MIT License - see the LICENSE file for details.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-This template includes basic sections that are easy to expand upon as the project progresses. Let me know if you'd like to adjust any part of it!
+	This template includes basic sections that are easy to expand upon as the project progresses. Let me know if you'd like to adjust any part of it!
