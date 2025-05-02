@@ -21,7 +21,7 @@ The project uses hourly air quality data collected from monitoring stations acro
 The [hourly air quality dataset](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/36fb4629-8003-4acc-a1ca-3302778a530d) can be downloaded from  from the Western Pennsylvania Regional Data Center. They also supply a [data dictionary](https://data.wprdc.org/dataset/allegheny-county-air-quality/resource/01297a0a-4160-41b3-8caf-90f7857ab7bd) for the dataset.
 
 ## Structure of Repository
-* Descriptive_analytics.ipynb: 
-* Data_cleaning.ipynb: 
-* ML_models_validation.ipynb: ML models, hyperparameter tuning, validation metrics
-* Bias_checking.ipynb: 
+* Descriptive_analytics.ipynb: Descriptive statistics of air quality by time, site, particulate type, and more
+* Data_cleaning.ipynb: Data cleaning of hourly air quality dataset
+* ML_models_validation.ipynb: feature generation, ML model pipelines, hyperparameter tuning, validation metrics
+* Bias_checking.ipynb: Descriptives and visualization of site-based bias metrics
